@@ -1,5 +1,4 @@
 
-<p align="center"><img src="https://media.giphy.com/media/VbEloWwOz3QqYBsqIZ/giphy.gif" width="100"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/nicholas-camus-52617957/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
